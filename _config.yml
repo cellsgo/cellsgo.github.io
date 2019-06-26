@@ -187,4 +187,4 @@ kramdown:
         syntax_highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 10
-excerpt_separator: '<!-- more -->'
+excerpt_separator: <!-- more -->
