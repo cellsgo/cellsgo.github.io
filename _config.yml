@@ -1,5 +1,5 @@
 ### Site info:
-title: 巴士速递
+title: Cells Go
 tagline: 
 author: Anabas
 email: lian.82@qq.com
@@ -10,9 +10,9 @@ url: "https://zhimax.cn" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: 
-github_username:  
-disqus_shortname: 
+@twitter_username: 
+@github_username:  
+@disqus_shortname: 
 favicon:     "/images/favicon.ico"
 aboutme: Cells go for a new world. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/author.jpg"# your photo.
