@@ -1,12 +1,12 @@
 ### Site info:
-title: Cells Go
+title: 巴士速递
 tagline: 
 author: Anabas
 email: lian.82@qq.com
 description: "Cells stories" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "zhimax, excel, cellsgo"
+keywords: "excel, cellsgo"
 baseurl: ""  # the subpath of your site, e.g. /blog/
-url: "https://zhimax.cn" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
@@ -20,7 +20,7 @@ google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable
 
 
 ### Site setting:
-ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+ShowContactInfo: "False" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "cn" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
 
