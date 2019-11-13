@@ -14,7 +14,7 @@ locale: zh_CN
 #github_username:  
 #disqus_shortname: 
 favicon:     "/images/favicon.ico"
-aboutme: "心静才有岁月静，  
+aboutme: "心静才有岁月静，\  
 岁月静才知生活美。" # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/author.jpg"# your photo.
 google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
