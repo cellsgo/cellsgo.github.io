@@ -7,7 +7,7 @@ description: "心静才有岁月静，岁月静才知生活美。" # You can edi
 keywords: "excel, cellsgo"
 baseurl: ""  # the subpath of your site, e.g. /blog/
 url: "/" # the base hostname & protocol for your site
-locale: en_US
+locale: zh_CN
 
 ### Personal info and site tools info:
 #twitter_username: 
