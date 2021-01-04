@@ -1,8 +1,8 @@
 # Site settings
-title: 风玉
+title: Lian
 SEOTitle: Lian
 header-img: img/home-bg.jpg
-email: zhimaa@outlook.com
+#email: zhimaa#outlook.com
 description: "Excel | 诗词文字 | 思考 "
 keyword: "Excel, 文学, 诗词"
 url: "https://zhimax.github.io/"              # your host, for absolute URL
